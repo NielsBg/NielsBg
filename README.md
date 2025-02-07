@@ -1,5 +1,5 @@
 # 💫 About Me:
-Second Year "Computer Systems And Technologies" Student at Technical University of Varna.<br>Currently in progress: "Responsive Web Design" Course at FCC.<br><br>Completed Courses:<br>- Basic Programming (C/C++)<br>- OOP (C++)<br>- Web Design (HTML/CSS/JavaScript)<br><br>Actively learning and looking for an internship.<br><br>
+Second Year "Computer Systems And Technologies" Student at Technical University of Varna.<br><br><i>Currently in progress: "JavaScript Algorithms and Data Structures" Course at FCC.</i><br><br>Completed Courses:<br>- Basic Programming (C/C++)<br>- OOP (C++)<br>- Web Design (HTML/CSS/JavaScript)<br>- Responsive Web Design (HTML/CSS)<br><br>Acquired Certificates:<br>- Responsive Web Design - https://www.freecodecamp.org/certification/NielsBg/responsive-web-design <br><br>Actively learning and looking for an internship.<br><br>
 
 
 # 💻 Tech Stack:
